@@ -81,7 +81,6 @@ D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\ref\PC2.dll
 D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\PC2.pdb
 D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\PC2.genruntimeconfig.cache
 D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\Razor\Views\Presentacion\QuienesSomos.cshtml.g.cs
-D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\Razor\Views\Contacto\Create.cshtml.g.cs
 D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\Razor\Views\VentaProducto\Venta.cshtml.g.cs
-D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\Razor\Views\Contacto\Index.cshtml.g.cs
 D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\Razor\Views\CompraProducto\Compra.cshtml.g.cs
+D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\Razor\Views\Contacto\Persona.cshtml.g.cs

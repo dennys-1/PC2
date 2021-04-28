@@ -12,6 +12,6 @@ namespace PC2.Data
             : base(options)
         {
         }
-        public DbSet<PC2.Models.Contacto> DataContactos { get; set; }
+        
     }
 }

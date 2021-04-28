@@ -15619,11 +15619,6 @@
   "RootNamespace": "PC2",
   "Documents": [
     {
-      "FilePath": "d:\\USMP-2021-1\\Programacion\\PC2\\PC2\\Views\\Contacto\\Index.cshtml",
-      "TargetPath": "Views\\Contacto\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\USMP-2021-1\\Programacion\\PC2\\PC2\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
@@ -15669,6 +15664,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\USMP-2021-1\\Programacion\\PC2\\PC2\\Views\\Contacto\\Persona.cshtml",
+      "TargetPath": "Views\\Contacto\\Persona.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\USMP-2021-1\\Programacion\\PC2\\PC2\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -15681,11 +15681,6 @@
     {
       "FilePath": "d:\\USMP-2021-1\\Programacion\\PC2\\PC2\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\Programacion\\PC2\\PC2\\Views\\Contacto\\Create.cshtml",
-      "TargetPath": "Views\\Contacto\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
