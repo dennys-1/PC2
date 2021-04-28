@@ -1,4 +1,8 @@
+
 @model Contacto
+@{
+    ViewData["Title"] = "Home Page";
+}
 <form asp-controller="Contacto" asp-action="Create">
      <label asp-for="Name" class="control-label"></label>
      <input asp-for="Name" class="form-control" />
