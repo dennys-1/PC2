@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\USMP-2021-1\\Programacion\\PC2\\PC2\\Views\\CompraProducto\\Compra.cshtml",
+      "TargetPath": "Views\\CompraProducto\\Compra.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\USMP-2021-1\\Programacion\\PC2\\PC2\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"

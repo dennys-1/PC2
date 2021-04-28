@@ -84,3 +84,4 @@ D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\Razor\Views\Presentacion\Qu
 D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\Razor\Views\Contacto\Create.cshtml.g.cs
 D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\Razor\Views\VentaProducto\Venta.cshtml.g.cs
 D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\Razor\Views\Contacto\Index.cshtml.g.cs
+D:\USMP-2021-1\Programacion\PC2\PC2\obj\Debug\net5.0\Razor\Views\CompraProducto\Compra.cshtml.g.cs
